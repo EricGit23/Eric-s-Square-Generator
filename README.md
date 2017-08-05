@@ -2,6 +2,6 @@
 
 This is a square generator.
 
-**Use your C++ programming program to ccompile! (Xcode, Dev-C++,etc)**
+**Use your C++ Complier to ccompile!**
 
 It just display "*".
