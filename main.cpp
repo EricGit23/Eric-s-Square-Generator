@@ -3,7 +3,7 @@
 //  Eric's Square Generator
 //
 //  Created by Eric Zhang on 2017/8/5.
-//  Copyright © 2017年 Eric Zhang. All rights reserved.
+//  Copyright © 2017 Eric Zhang. All rights reserved.
 //
 
 #include <iostream>
