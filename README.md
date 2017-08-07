@@ -4,4 +4,4 @@ This is a square generator.
 
 **Use your C++ Complier to ccompile!**
 
-It just display "*".
+*It just display "*".*
